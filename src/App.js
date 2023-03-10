@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lucas Cabral
+          Hola!
         </a>
       </header>
     </div>
